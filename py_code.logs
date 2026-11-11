@@ -1,0 +1,5 @@
+2026-11-11 06:39:55,886 - INFO - Pipeline started
+2026-11-11 06:39:55,886 - INFO - Extracting data
+2026-11-11 06:39:55,887 - INFO - Data extracted successfully
+2026-11-11 06:39:55,887 - INFO - Loading data into database
+2026-11-11 06:39:55,887 - INFO - Pipeline completed
