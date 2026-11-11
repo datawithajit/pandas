@@ -1,0 +1,2 @@
+client_id,physician_network,client_account_number,credence_account_number,assignment_date,current_balance,account_status,state,insurance_status
+CL1002,Loop 101 Emergency Physicians,EMCLP101004,CR100008,2026-11-12,430.0,CEASE,AZ,NOT_REQUIRED

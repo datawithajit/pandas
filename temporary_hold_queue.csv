@@ -1,0 +1,2 @@
+client_id,physician_network,client_account_number,credence_account_number,assignment_date,current_balance,account_status,state,insurance_status
+CL1001,Texan Star Emergency Physicians,EMCTSE10003,CR100005,2026-11-12,320.0,HOLD7,TX,NOT_REQUIRED

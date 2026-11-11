@@ -1,0 +1,2 @@
+client_id,physician_network,client_account_number,credence_account_number,assignment_date,current_balance,account_status,state,insurance_status,rejection_reason
+CL1002,Loop 101 Emergency Physicians,EMCLP101005,CR100010,2026-11-12,-710.4,ACTIVE,AZ,PENDING,Negative account balance
